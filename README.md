@@ -201,6 +201,15 @@ for ( i = 0; i < dt.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-strided/special/dceil`][@stdlib/math/strided/special/dceil]</span><span class="delimiter">: </span><span class="description">round each element in a double-precision floating-point strided array toward positive infinity.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/floor`][@stdlib/math/strided/special/floor]</span><span class="delimiter">: </span><span class="description">round each element in a strided array toward negative infinity.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/trunc`][@stdlib/math/strided/special/trunc]</span><span class="delimiter">: </span><span class="description">round each element in a strided array toward zero.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/sceil`][@stdlib/math/strided/special/sceil]</span><span class="delimiter">: </span><span class="description">round each element in a single-precision floating-point strided array toward positive infinity.</span>
+
 </section>
 
 <!-- /.related -->
@@ -277,6 +286,18 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
 [@stdlib/strided/dtypes]: https://github.com/stdlib-js/strided-dtypes
+
+<!-- <related-links> -->
+
+[@stdlib/math/strided/special/dceil]: https://github.com/stdlib-js/math-strided-special-dceil
+
+[@stdlib/math/strided/special/floor]: https://github.com/stdlib-js/math-strided-special-floor
+
+[@stdlib/math/strided/special/trunc]: https://github.com/stdlib-js/math-strided-special-trunc
+
+[@stdlib/math/strided/special/sceil]: https://github.com/stdlib-js/math-strided-special-sceil
+
+<!-- </related-links> -->
 
 </section>
 
